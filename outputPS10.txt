@@ -1,0 +1,5 @@
+Minimum average waiting time : 9
+Dosas should be served in the following order :
+Customer 0
+Customer 2
+Customer 1
